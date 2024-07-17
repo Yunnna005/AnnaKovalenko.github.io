@@ -32,6 +32,11 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+
+      {% if post.date_from and post.date_to %}
+      <br>
+      <span class="date-range">{{ post.date_from | date: '%B %d, %Y' }} to {{ post.date_to | date: '%B %d, %Y' }}</span>
+      {% endif %}
     </h2>
     
     {% if post.read_time %}
