@@ -10,4 +10,4 @@ cvurl: '/files/CV_Anna.pdf'
 
 You can download my CV using the link below:
 
-[Download CV (PDF)]({{ page.cvurl }})
+<a href=" {{ page.cvurl | prepend: base_path}} ">Download CV</a>

@@ -19,7 +19,8 @@ Technologies Used: Maya 3D
 
 Render Using is Arnold Renderer with tectures.
 
-![3D Flower](/images/FlowerModel.png "3D Flower")
+<img src="{{'FlowerModel.png' | prepend: '/images/' | prepend: base_path }}" alt="3D flower">
+
 
 ### 3D View
 
@@ -36,8 +37,16 @@ Render Using is Maya Software.
 
 
 ### Amination
-<iframe width="640" height="480" src="https://youtu.be/GEakwEEUp8g?si=CsWtR_NbweY1zrr9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div style="padding:0; position:relative; width:100%; height:0; padding-bottom:56.25%;">
+    <iframe 
+        src="https://player.vimeo.com/video/987986224?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+        frameborder="0" 
+        allow="autoplay; fullscreen; picture-in-picture; clipboard-write" 
+        style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+        title="Flower_Animation">
+    </iframe>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
 
 › Strawberrry 🍓
 ------
@@ -45,7 +54,7 @@ Render Using is Maya Software.
 
 Render Using is Arnold Renderer with tectures.
 
-![3D Strawberry](/images/StrawberryModel.png "3D Strawberry")
+<img src="{{'StrawberryModel.png' | prepend: '/images/' | prepend: base_path }}" alt="3D Strawberry">
 
 ### 3D View
 
@@ -61,7 +70,16 @@ Render Using is Maya Software.
 </div>
 
 ### Amination
-<iframe width="640" height="480" src="https://youtu.be/WIAw7a679Ns?si=GB9j6fIZD54ewt9m" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:0; position:relative; width:100%; height:0; padding-bottom:56.25%;">
+    <iframe 
+        src="https://player.vimeo.com/video/987986105?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+        frameborder="0" 
+        allow="autoplay; fullscreen; picture-in-picture; clipboard-write" 
+        style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+        title="StrawberryAnimation">
+    </iframe>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
 
 
 › Features

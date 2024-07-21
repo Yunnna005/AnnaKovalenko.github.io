@@ -24,7 +24,8 @@ Coming soon <3
 ------
 The 3D models were made in Maya 3D.
 
-![3D BAcketball Court](/images/Backetball_model.png "3D BAcketball Court")
+<img src="{{'Backetball_model.png' | prepend: '/images/' | prepend: base_path }}" alt="3D Basketball Court">
+
 
 › Features
 ------
