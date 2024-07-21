@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://yunnna005.github.io/AnnaKovalenko.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/AnnaKovalenko.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "yunnna005.github.io/AnnaKovalenko.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -336,5 +336,3 @@ compress_html:
   ignore:
     envs: development
 
-#For images, cv
-baseurl: "/AnnaKovalenko.github.io"
