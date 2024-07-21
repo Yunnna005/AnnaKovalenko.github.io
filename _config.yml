@@ -336,5 +336,5 @@ compress_html:
   ignore:
     envs: development
 
-
+#For images, cv
 baseurl: "/AnnaKovalenko.github.io"
