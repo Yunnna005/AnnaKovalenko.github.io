@@ -19,7 +19,7 @@ Technologies Used: Maya 3D
 
 Render Using is Arnold Renderer with tectures.
 
-<img src="{{'FlowerModel.png' | prepend: '/images/' | prepend: base_path }}" alt="3D flower">
+<img src="{{'/images/FlowerModel.png' | prepend: site.baseurl}}" alt="3D flower">
 
 
 ### 3D View
@@ -54,7 +54,7 @@ Render Using is Maya Software.
 
 Render Using is Arnold Renderer with tectures.
 
-<img src="{{'StrawberryModel.png' | prepend: '/images/' | prepend: base_path }}" alt="3D Strawberry">
+<img src="{{'/images/StrawberryModel.png' | prepend: site.baseurl  }}" alt="3D Strawberry">
 
 ### 3D View
 

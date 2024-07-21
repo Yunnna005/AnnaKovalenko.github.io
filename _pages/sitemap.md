@@ -16,7 +16,7 @@ cvurl: '/files/CV_Anna.pdf'
 <h2>CV</h2>
 You can download my CV using the link below:
 
-[Download CV (PDF)]({{ page.cvurl }})
+<a href=" {{ '/files/CV_Anna.pdf' | prepend: site.baseurl}} ">Download CV</a>
 
 <!-- <h2>Pages</h2>
 {% for post in site.pages %}

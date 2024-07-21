@@ -21,17 +21,17 @@ GitHub: [link](https://github.com/Yunnna005/DanceStudioBookingSystem.git "Github
 ### Start View: 
 
 Login, create account and reset password pages.
-<img src="{{'Start_page.png' | prepend: '/images/' | prepend: base_path }}" alt="Start Page">
+<img src="{{'/images/Start_page.png' | prepend: site.baseurl }}" alt="Start Page">
 
 ### Member View:
 
 Member profile, edit member details, make bookings and perform payment.
-<img src="{{'MemberView_pages.png' | prepend: '/images/' | prepend: base_path }}" alt="Member View">
+<img src="{{'/images/MemberView_pages.png' | prepend: site.baseurl }}" alt="Member View">
 
 ### Admin View:
 
 Classes overview, schedule, modify and cancel classes, staticstics.
-<img src="{{'AdminView_pages.png' | prepend: '/images/' | prepend: base_path }}" alt="Admin View">
+<img src="{{'/images/AdminView_pages.png' | prepend: site.baseurl }}" alt="Admin View">
 
 › Features
 ------
