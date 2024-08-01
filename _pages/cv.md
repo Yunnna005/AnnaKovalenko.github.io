@@ -10,4 +10,4 @@ redirect_from:
 
 You can download my CV using the link below:
 
-[Download CV]({{ '/files/CV_Anna.pdf' | relative_url }})
+[Download CV]({{ site.url }}/files/CV_Anna.pdf)
