@@ -54,7 +54,7 @@ Render Using is Maya Software.
 
 Render Using is Arnold Renderer with tectures.
 
-<img src="{{'/images/StrawberryModel.png' | prepend: site.baseurl  }}" alt="3D Strawberry">
+<img src="/AnnaKovalenko.github.io/images/StrawberryModel.png" alt="3D Strawberry">
 
 ### 3D View
 
