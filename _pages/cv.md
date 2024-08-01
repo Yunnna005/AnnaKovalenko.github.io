@@ -10,4 +10,4 @@ redirect_from:
 
 You can download my CV using the link below:
 
-[Download CV]({{ site.url }}/files/CV_Anna.pdf)
+<a href="https://yunnna005.github.io/AnnaKovalenko.github.io/files/CV_Anna.pdf">Download CV</a>
