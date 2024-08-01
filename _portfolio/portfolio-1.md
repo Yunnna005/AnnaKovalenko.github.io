@@ -19,7 +19,7 @@ Technologies Used: Maya 3D
 
 Render Using is Arnold Renderer with tectures.
 
-<!-- <img src='{{ site.baseurl }}/images/FlowerModel.png'  alt="3D flower"> -->
+
 <img src="/AnnaKovalenko.github.io/images/FlowerModel.png" alt="3D flower">
 
 ### 3D View
