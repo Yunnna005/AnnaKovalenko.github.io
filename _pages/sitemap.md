@@ -16,7 +16,7 @@ cvurl: '/files/CV_Anna.pdf'
 <h2>CV</h2>
 You can download my CV using the link below:
 
-<a href="./files/CV_Anna.pdf">Download CV</a>
+[Download CV]({{ '/files/CV_Anna.pdf' | relative_url }})
 
 <!-- <h2>Pages</h2>
 {% for post in site.pages %}
