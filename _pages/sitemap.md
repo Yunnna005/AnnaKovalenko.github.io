@@ -16,7 +16,7 @@ cvurl: '/files/CV_Anna.pdf'
 <h2>CV</h2>
 You can download my CV using the link below:
 
-<a href="/AnnaKovalenko.github.io/files/CV_Anna.pdf">Download CV</a>
+<a href="./files/CV_Anna.pdf">Download CV</a>
 
 <!-- <h2>Pages</h2>
 {% for post in site.pages %}
