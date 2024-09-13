@@ -1,53 +1,49 @@
 ---
-title: "Dance Studio Booking System"
-excerpt: "The system includes features such as log in, creating account, booking and payment processes, class 
-scheduling."
+title: "Big Adventure"
+excerpt: "Big Adventure is an action-packed game allowing user to play as a character in third-person view. The 
+player explores areas, collecting items, engaging in battles with enemies. The game concludes when 
+the player successfully explores the final location and discovers the magic flower"
 collection: portfolio
-date_from: 2024-03-11
+date_from: 2024-01-16
 date_to: 2024-05-10
 ---
 
 › Overview
 ------
+Developed "Big Adventure," an action-packed third-person game where players explore areas, collect items, and engage in battles. The game culminates when the player successfully explores the final location and discovers the magic flower.
 
-Developed a robust booking system for a dance studio, providing users with a seamless experience for logging in, creating accounts, booking classes, and processing payments. The project spanned from September 2023 to May 2024 and was built using C# and SQL Developer.
+Technologies Used: Unity, Maya 3D
 
-Technologies Used: C#, SQL Developer
-
-GitHub: [link](https://github.com/Yunnna005/DanceStudioBookingSystem.git "Github")
+GitHub: [link](https://github.com/Yunnna005/Big_Adventure.git "Github")
 
 › Prototype
 ------
-### Start View: 
+Coming soon <3 
 
-Login, create account and reset password pages.
-<img src="/AnnaKovalenko.github.io/images/Start_page.png" alt="Start Page">
+› 3D Models
+------
+The 3D models were made in Maya 3D.
 
-### Member View:
+<img src="/AnnaKovalenko.github.io/images/Backetball_model.png" alt="3D Basketball Court">
 
-Member profile, edit member details, make bookings and perform payment.
-<img src="/AnnaKovalenko.github.io/images/MemberView_pages.png" alt="Member View">
-
-### Admin View:
-
-Classes overview, schedule, modify and cancel classes, staticstics.
-<img src="/AnnaKovalenko.github.io/images/AdminView_pages.png" alt="Admin View">
 
 › Features
 ------
-
-* User login and account creation
-* Booking and payment processes
-* Class scheduling, modifying and cancelation
+* Third-person character view
+* Exploration of diverse areas
+* Item collection
+* Inventory system
+* Dialog Sysmen with NPCs
+* Engaging battles with enemies
 
 › Project Implementation
 ------
-
-1. Create documentation
-1. Developed a comprehensive booking system.
-1. Integrated skills in requirements engineering, database concepts, and programming.
-1. Utilized Waterfall Process Modelling for systematic project development.
+1. Designed immersive gameplay mechanics.
+1. Integrated graphics and animations for a compelling user experience.
+1. Developed complex AI for enemy interactions.
+1. Implemented a storyline and objectives to guide player progress.
+1. Implement friendly User Interface
 
 › Outcome
 ------
-Successfully created a functional booking system for a dance studio, streamlining user experience and operational efficiency. Achieved a project score of 83% out of 100.
+Successfully created an engaging and action-packed game, providing players with a captivating adventure. Achieved a project score of 83% out of 100.

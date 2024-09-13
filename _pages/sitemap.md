@@ -13,10 +13,12 @@ cvurl: '/files/CV_Anna.pdf'
   {% include archive-single.html %}
 {% endfor %}
 
+[link](/AnnaKovalenko.github.io/AcademicResults/ModuleResults "Academic Results")
+
 <h2>CV</h2>
 You can download my CV using the link below:
 
-[Download CV]({{ site.url }}/files/CV_Anna_Kovalenko.pdf)
+[Download CV]({{ site.url }}/files/CV_Anna_Kovalenko_new.pdf)
 
 <!-- <h2>Pages</h2>
 {% for post in site.pages %}

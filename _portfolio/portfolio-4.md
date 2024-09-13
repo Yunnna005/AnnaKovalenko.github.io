@@ -1,41 +1,53 @@
 ---
-title: "Software Testing Project"
-excerpt: "Utilized Java for a software testing project, creating test cases, performing unit testing using Junit."
+title: "Dance Studio Booking System"
+excerpt: "The system includes features such as log in, creating account, booking and payment processes, class 
+scheduling."
 collection: portfolio
 date_from: 2024-03-11
-date_to: 2024-03-22
+date_to: 2024-05-10
 ---
 
 › Overview
 ------
-I conducted a comprehensive software testing project on a Java class using various advanced techniques to ensure robust functionality and reliability.
 
-Technologies Used: Java
+Developed a robust booking system for a dance studio, providing users with a seamless experience for logging in, creating accounts, booking classes, and processing payments. The project spanned from September 2023 to May 2024 and was built using C# and SQL Developer.
 
-GitHub: [link](https://github.com/Yunnna005/SoftwareTesting.git "Github")
+Technologies Used: C#, SQL Developer
 
-› Techniques Used
+GitHub: [link](https://github.com/Yunnna005/DanceStudioBookingSystem.git "Github")
+
+› Prototype
 ------
-1. Equivalence Partitioning
-1. Test Conditions and Test Cases
-1. Decision Table
-1. State Transition Diagram
-1. Parameterized Testing
-1. Key Tests Conducted:
+### Start View: 
 
-› Constructor and method testing
+Login, create account and reset password pages.
+<img src="/AnnaKovalenko.github.io/images/Start_page.png" alt="Start Page">
+
+### Member View:
+
+Member profile, edit member details, make bookings and perform payment.
+<img src="/AnnaKovalenko.github.io/images/MemberView_pages.png" alt="Member View">
+
+### Admin View:
+
+Classes overview, schedule, modify and cancel classes, staticstics.
+<img src="/AnnaKovalenko.github.io/images/AdminView_pages.png" alt="Admin View">
+
+› Features
 ------
-* Specification-based testing (positive and negative)
-* Validated setAge method functionality with specific test cases
-* Prioritized constructor testing as the initial test case
-* Utilized JaCoCo for code coverage analysis
 
-› Additional Considerations
+* User login and account creation
+* Booking and payment processes
+* Class scheduling, modifying and cancelation
+
+› Project Implementation
 ------
-Identified and added tests for uncovered code areas
 
-Implemented error guessing techniques for further validation
+1. Create documentation
+1. Developed a comprehensive booking system.
+1. Integrated skills in requirements engineering, database concepts, and programming.
+1. Utilized Waterfall Process Modelling for systematic project development.
 
 › Outcome
 ------
-Achieved a project rating of 72% to 100%, highlighting thorough testing and adherence to software quality standards.
+Successfully created a functional booking system for a dance studio, streamlining user experience and operational efficiency. Achieved a project score of 83% out of 100.
