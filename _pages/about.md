@@ -9,7 +9,7 @@ redirect_from:
 
 Hey there! 👋 
 
-I'm Anna, a passionate game developer 🎮 with a love for creating immersive experiences and exploring the latest tech trends.
+I'm Anna, a passionate student in Computing with a focus on Game Development 🎮, driven by a love for creating immersive experiences and exploring the latest tech trends.
 
 My journey into the world of game development began with a simple yet profound realization: from childhood, I always wanted to play the perfect game but could never find one, so I decided to create it myself. Since then, it's been an incredible adventure filled with learning, creativity, and innovation.🌟
 
