@@ -18,7 +18,7 @@ cvurl: '/files/CV_Anna.pdf'
 <h2>CV</h2>
 You can download my CV using the link below:
 
-[Download CV]({{ site.url }}/files/CV_Anna_Kovalenko_new.pdf)
+[Download CV]({{ site.url }}/files/AnnaKovalenko_CV.pdf)
 
 <!-- <h2>Pages</h2>
 {% for post in site.pages %}

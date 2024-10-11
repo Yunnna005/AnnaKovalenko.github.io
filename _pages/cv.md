@@ -10,4 +10,4 @@ redirect_from:
 
 You can download my CV using the link below:
 
-<a href="https://yunnna005.github.io/AnnaKovalenko.github.io/files/CV_Anna_Kovalenko_new.pdf">Download CV</a>
+<a href="https://yunnna005.github.io/AnnaKovalenko.github.io/files/AnnaKovalenko_CV.pdf">Download CV</a>
